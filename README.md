@@ -38,11 +38,11 @@ Run the script. This script reads data from the sample.csv file and uses it to a
 
 Here's a brief explanation of the main components of the csv_to_animation.py script:
 
-    LOC_OR_GLOB: Specifies whether the transformations are in local or global coordinates.
-    OBJECT_NAME: The name of the object to be animated.
-    ARMATURE_NAME: The name of the armature controlling the object.
-    CSV_FILE: The path to the CSV file containing the animation data.
-    MATRIX_LOC_OR_GLOB: Specifies which coordinate system (local or global) to use from the LOC_OR_GLOB list.
+- *`LOC_OR_GLOB:`* Specifies whether the transformations are in local or global coordinates.
+- *`OBJECT_NAME:`* The name of the object to be animated.
+- *`ARMATURE_NAME:`* The name of the armature controlling the object.
+- *`CSV_FILE:`* The path to the CSV file containing the animation data.
+- *`MATRIX_LOC_OR_GLOB:`* Specifies which coordinate system (local or global) to use from the LOC_OR_GLOB list.
 
 ### Function
 
